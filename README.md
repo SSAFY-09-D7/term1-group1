@@ -25,3 +25,29 @@
 ### 수요일
 
 - **실전! Live Coding(120분) : 각자 시간 재면서 문제 풀이 (1시간30분 동안 풀이 후 30분 FeedBack)**
+
+**이번주(~1/26) [공통 문제](https://www.acmicpc.net/problem/17413) ← CLICK!!**
+
+
+💡 **설 연휴 특별 스터디** :
+교수님께서 MM에 올려주신 알고리즘기초문제출제.pdf 파일 다 풀어오기(총 6문제)
+
+
+### Commit 작성법
+
+- **git commit -m “[platform 문제번호]  solution Num=[푼 문제 수]"**
+
+  **ex)** git commit -m “[백준 17412] solution Num=23 ”
+
+  **ex)** git commit -m “[SWEA 1423] solution Num=13 ”
+
+
+❗ **push 전에 꼭 pull 해주세요**
+
+### Issue 작성
+
+- **문제 질문 용도로 활용**
+
+- 제목: [[플래폼 이름] [문제번호]] 간단한 질문 요약
+
+  **ex)** [백준 17413] 여기서 막혔습니다.
