@@ -26,11 +26,10 @@
 
 - **실전! Live Coding(120분) : 각자 시간 재면서 문제 풀이 (1시간30분 동안 풀이 후 30분 FeedBack)**
 
-**이번주(~1/26) [공통 문제](https://www.acmicpc.net/problem/17413) ← CLICK!!**
+**이번주(~1/30) [공통 문제1](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LrsUaDxcDFAXc) [공통 문제2](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWuSgKpqmooDFASy) ← CLICK!!**
 
 
-💡 **설 연휴 특별 스터디** :
-교수님께서 MM에 올려주신 알고리즘기초문제출제.pdf 파일 다 풀어오기(총 6문제)
+💡 **1주일에 7문제 이상 풀기**
 
 
 ### Commit 작성법
