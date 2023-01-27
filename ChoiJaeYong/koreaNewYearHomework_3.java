@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class koreaNewYearHomework_2 {
+public class koreaNewYearHomework_3 {
 	static int[] direction = {0, 3, 5, 6};
 	
 	public static void main(String[] args) {
