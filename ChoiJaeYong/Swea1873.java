@@ -2,7 +2,7 @@ import java.util.*;
 import java.io.*;
 
 //상하좌우
-public class Solution {
+public class Swea1873 {
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		StringTokenizer st;
