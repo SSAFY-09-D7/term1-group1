@@ -15,18 +15,18 @@
 
 # 진행 방식🧑🏻‍💻
 
-### 월요일 목요일
+### 목요일
 
-- **공통문제**(2문제) **개별문제**(1주일에 3문제 이상) 풀어오기
+- **공통문제**(4문제+@) **개별문제**(1주일에 3문제+@) 풀어오기
 - **문제** **발표**(5분) → **CodeReview**(15분)
 - **문제 선정**
 - **나머지 시간 :개인별 문제 풀기**
 
-### 수요일
+### 화요일 수요일
 
 - **실전! Live Coding(120분) : 각자 시간 재면서 문제 풀이 (1시간30분 동안 풀이 후 30분 FeedBack)**
 
-**이번주(~1/30) [공통 문제1](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LrsUaDxcDFAXc) [공통 문제2](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWuSgKpqmooDFASy) ← CLICK!!**
+**이번주(~1/30) [프로그래머스 공통 문제](https://school.programmers.co.kr/learn/courses/30/parts/12081) ← CLICK!!**
 
 
 💡 **1주일에 7문제 이상 풀기**
