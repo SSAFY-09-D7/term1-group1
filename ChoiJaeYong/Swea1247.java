@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class 최적_경로 {
+public class Swea1247 {
 	static int ans;
 	static int[][] arr = new int[10][2];
 	static int[] v = new int[10];
